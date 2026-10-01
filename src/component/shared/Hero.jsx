@@ -7,7 +7,7 @@ function Hero() {
         <h1>Interstellar</h1>
 
         <p className="hero-info">
-          ⭐8.5 • 2014 • Sci-Fi • Adventure • Drama
+          ⭐8x.5 • 2014 • Sci-Fi • Adventure • Drama
         </p>
 
         <p className="hero-description">
