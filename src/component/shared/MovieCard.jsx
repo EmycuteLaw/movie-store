@@ -8,7 +8,7 @@ function MovieCard({ movie }) {
 
       <h2>{movie.title || movie.name}</h2>
 
-      <p>{movie.release_date || movie.first_air_date}</p>
+      <p>{movie.release_date || movie.first_air_date || movie.rating}</p>
     </div>
   );
 }
