@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import { Usecontext } from "../Context/UserContext";
+import { Usecontext } from "../context/UserContext";
 import Logo from "../shared/logo";
 import MovieButton from "../Button/Button";
 
